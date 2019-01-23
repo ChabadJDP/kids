@@ -1,4 +1,4 @@
-# Challah Bake Kids
+<h1>Challah Bake Kids</h1>
 
 ![](https://chabadjdp.github.io/kids/flyer.jpg)
 
